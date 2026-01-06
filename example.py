@@ -127,6 +127,7 @@ twitch_miner.mine(
         Streamer("imstarmi"),
         Streamer("sagesagony"),
         Streamer("pingmik"),
+        Streamer("aqypt"),
         "maguri_ann",
         "immie573",
         "babytrisha"
