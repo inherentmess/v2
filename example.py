@@ -128,20 +128,18 @@ twitch_miner.mine(
         Streamer("sagesagony"),
         Streamer("pingmik"),
         Streamer("aqypt"),
-        "maguri_ann",
-        "immie573",
-        "unsaiidpluto"
-        "kerstynn"
-        "eepiestt"
-        "steallth1"
-        "jonoyang"
-        "arii"
-        "crsanthm"
-        "auntietan"
-        "bluwunk"
-        "lovelyydamage"
-        "xxdoomkittyxx"
-        
+        Streamer("maguri_ann"),
+        Streamer("kerstynn"),
+        Streamer("unsaiidpluto"),
+        Streamer("immie573"),
+        Streamer("eepiestt"),
+        Streamer("steallth1"),
+        Streamer("crsanthm"),
+        Streamer("arii"),
+        Streamer("auntietan"),
+        Streamer("bluwunk"),
+        Streamer("lovelyydamage"),
+        Streamer("xxdoomkittyxx"),
         
         
     ],                                  # Array of streamers (order = priority)
